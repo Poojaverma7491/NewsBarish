@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Dan Williams, Ethan Bronner",
+      "title": "Netanyahu Faces Dilemma as Hamas Gives Partial Nod to Trump Deal",
+      "description": "Bomb-ruptured buildings list like shipwrecks and paved roads have been churned into gravel. Gaza City, once teeming with street food and knotty traffic, is now reduced to almost nothing but dust and decay.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-04/netanyahu-faces-dilemma-as-hamas-gives-partial-nod-to-trump-deal",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDetV_a_Q4h4/v1/1200x800.jpg",
+      "publishedAt": "2025-10-04T16:45:00+00:00",
+      "content": "Bomb-ruptured buildings list like shipwrecks and paved roads have been churned into gravel. Gaza City, once teeming with street food and knotty traffic, is now reduced to almost nothing but dust and … [+418 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Siôn Geschwindt",
+      "title": "Mobility giant Bolt adopts self-driving Starship robots for food delivery",
+      "description": "Bolt plans to roll out thousands of the robots across multiple countries, starting in its home city of Tallinn later this year.",
+      "url": "http://thenextweb.com/news/mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2Fbolt-starship-robot-delivery.jpg&signature=c902ce701ce95e20f6fd703a50ad52ca",
+      "publishedAt": "2023-06-22T09:17:15Z",
+      "content": "European ride-hailing firm Bolt will start using self-driving robots to deliver customers food as part of a new partnership with fellow Estonian company Starship Technologies, announced yesterday.  \r… [+2447 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Dipak K Dash",
+      "title": "Government to provide 5 kg free food grains to poor for May & June",
+      "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+      "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T04:23:00Z",
+      "content": null
+    }
+  ]
+}
